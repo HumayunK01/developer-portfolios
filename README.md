@@ -436,6 +436,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## H
 
+- [Humayun Khan](https://devhumayun.vercel.app/)([@HumayunK01](https://github.com/HumayunK01)) [👨🏽‍💻 Blockchain Developer]
 - [Hafid Ziti](https://www.hafidziti.dev)
 - [Hamish Williams](https://hamishw.com/)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
