@@ -462,6 +462,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Himavanth Kumar Perni](http://himavanth-kumar-perni-portfolio.vercel.app) [Fullstack Developer]
 - [Hisami Kurita](https://hsmkrt1996.com/) [Frontend Developer]
 - [Hrithik Dhakrey](https://iamdhakrey.dev) [Backend Developer]
+- [Humayun Khan](https://devhumayun.vercel.app/) ([@HumayunK01](https://github.com/HumayunK01)) [👨🏽‍💻 Blockchain Developer]
 - [Hubert Kimani](https://hubertkimani.me)
 - [Hugo Damion](https://hugo-damion.me)
 - [Hugo Folloni](https://hugofolloni.com)
